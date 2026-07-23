@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-001148-osh5",
+      "title": "Chonkolat Tinkleton, Circe Trickpaw",
+      "commanders": [
+        "Chonkolat Tinkleton",
+        "Circe Trickpaw"
+      ],
+      "dateStart": "2026-07-23T16:11:48.000Z",
+      "dateEnd": "2026-07-23T17:53:59.000Z",
+      "dateLabel": "7/24/2026, 12:11:48 AM - 7/24/2026, 1:53:59 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260724-001148-osh5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260724-001148-94u1",
       "title": "Chonkolat Tinkleton, Circe Trickpaw",
       "commanders": [
