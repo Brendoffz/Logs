@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-224414-bbc5",
+      "title": "Circe Trickpaw, Kingofmesmers",
+      "commanders": [
+        "Circe Trickpaw",
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-08-02T14:44:14.000Z",
+      "dateEnd": "2026-08-02T17:03:57.000Z",
+      "dateLabel": "8/2/2026, 10:44:14 PM - 8/3/2026, 1:03:57 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260802-224414-bbc5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260730-233637-4i6a",
       "title": "Aella Shieldpaw, Circe Trickpaw",
       "commanders": [
