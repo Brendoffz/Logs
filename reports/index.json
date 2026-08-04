@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-192828-20gx",
+      "title": "Leo Alistair",
+      "commanders": [
+        "Leo Alistair"
+      ],
+      "dateStart": "2026-08-04T11:28:28.000Z",
+      "dateEnd": "2026-08-04T11:47:26.000Z",
+      "dateLabel": "8/4/2026, 7:28:28 PM - 8/4/2026, 7:47:26 PM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260804-192828-20gx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260804-000739-3ruu",
       "title": "Chonkolat Tinkleton, Saladmancer West, Salamander West, Salamesmer West",
       "commanders": [
