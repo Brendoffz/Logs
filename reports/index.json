@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-001049-dd6k",
+      "title": "Saladmancer West, Salamander West",
+      "commanders": [
+        "Saladmancer West",
+        "Salamander West"
+      ],
+      "dateStart": "2026-08-04T16:10:49.000Z",
+      "dateEnd": "2026-08-04T17:11:12.000Z",
+      "dateLabel": "8/5/2026, 12:10:49 AM - 8/5/2026, 1:11:12 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260805-001049-dd6k",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260804-192828-20gx",
       "title": "Leo Alistair",
       "commanders": [
