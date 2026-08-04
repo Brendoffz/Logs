@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-000739-3ruu",
+      "title": "Chonkolat Tinkleton, Saladmancer West, Salamander West, Salamesmer West",
+      "commanders": [
+        "Chonkolat Tinkleton",
+        "Saladmancer West",
+        "Salamander West",
+        "Salamesmer West"
+      ],
+      "dateStart": "2026-08-03T16:07:39.000Z",
+      "dateEnd": "2026-08-03T17:30:01.000Z",
+      "dateLabel": "8/4/2026, 12:07:39 AM - 8/4/2026, 1:30:01 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260804-000739-3ruu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260802-224414-bbc5",
       "title": "Circe Trickpaw, Kingofmesmers",
       "commanders": [
