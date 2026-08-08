@@ -1,8 +1,41 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260809-003748-kc1r",
+      "title": "Salamander West",
+      "commanders": [
+        "Salamander West"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-08T16:37:48.000Z",
+      "dateEnd": "2026-08-08T17:51:44.000Z",
+      "dateLabel": "8/9/2026, 12:37:48 AM - 8/9/2026, 1:51:44 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260809-003748-kc1r",
+      "summary": {
+        "borderlandsPct": 0.14285714285714285,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20260805-001049-dd6k",
       "title": "Saladmancer West, Salamander West",
