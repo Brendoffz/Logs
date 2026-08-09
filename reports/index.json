@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-190554-x6mm",
+      "title": "Leo Altyr",
+      "commanders": [
+        "Leo Altyr"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-08-09T11:05:54.000Z",
+      "dateEnd": "2026-08-09T11:54:56.000Z",
+      "dateLabel": "8/9/2026, 7:05:54 PM - 8/9/2026, 7:54:56 PM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260809-190554-x6mm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260809-003748-kc1r",
       "title": "Salamander West",
       "commanders": [
