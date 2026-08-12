@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-000809-wta5",
+      "title": "Fiendishwumd",
+      "commanders": [
+        "Fiendishwumd"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-12T16:08:09.000Z",
+      "dateEnd": "2026-08-12T17:10:12.000Z",
+      "dateLabel": "8/13/2026, 12:08:09 AM - 8/13/2026, 1:10:12 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260813-000809-wta5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260809-190554-x6mm",
       "title": "Leo Altyr",
       "commanders": [
