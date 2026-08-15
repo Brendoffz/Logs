@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-000928-x5pe",
+      "title": "Chonkolat Tinkleton, Fàelyn",
+      "commanders": [
+        "Chonkolat Tinkleton",
+        "Fàelyn"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-15T16:09:28.000Z",
+      "dateEnd": "2026-08-15T17:25:11.000Z",
+      "dateLabel": "8/16/2026, 12:09:28 AM - 8/16/2026, 1:25:11 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260816-000928-x5pe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260813-000809-wta5",
       "title": "Fiendishwumd",
       "commanders": [
