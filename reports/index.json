@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-182254-l6qa",
+      "title": "Kingofmesmers, Leo The Vicious",
+      "commanders": [
+        "Kingofmesmers",
+        "Leo The Vicious"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-08-16T10:22:54.000Z",
+      "dateEnd": "2026-08-16T13:03:09.000Z",
+      "dateLabel": "8/16/2026, 6:22:54 PM - 8/16/2026, 9:03:09 PM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260816-182254-l6qa",
+      "summary": {
+        "borderlandsPct": 0.0967741935483871,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260816-000928-x5pe",
       "title": "Chonkolat Tinkleton, Fàelyn",
       "commanders": [
