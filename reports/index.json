@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-002011-lpg6",
+      "title": "Fiendishwumd",
+      "commanders": [
+        "Fiendishwumd"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-09-02T16:20:11.000Z",
+      "dateEnd": "2026-09-02T17:48:02.825Z",
+      "dateLabel": "9/3/2026, 12:20:11 AM - 9/3/2026, 1:48:02 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260903-002011-lpg6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260902-002418-ollt",
       "title": "Salamander West",
       "commanders": [
