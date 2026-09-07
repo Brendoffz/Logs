@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-235837-wpt3",
+      "title": "Saladmancer West, Salamander West",
+      "commanders": [
+        "Saladmancer West",
+        "Salamander West"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-09-07T15:58:37.000Z",
+      "dateEnd": "2026-09-07T17:55:23.524Z",
+      "dateLabel": "9/7/2026, 11:58:37 PM - 9/8/2026, 1:55:23 AM",
+      "url": "https://Brendoffz.github.io/Logs/?report=20260907-235837-wpt3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260905-234552-9n49",
       "title": "Aella Shieldpaw, Chonkolat Tinkleton",
       "commanders": [
